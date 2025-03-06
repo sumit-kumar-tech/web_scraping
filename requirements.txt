@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+html5lib
+selenium
+ipykernel
+jupyter
+webdriver-manager
