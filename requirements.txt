@@ -8,4 +8,3 @@ selenium
 ipykernel
 jupyter
 webdriver-manager
-timus5181
